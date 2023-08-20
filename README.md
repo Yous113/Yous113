@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Youssef Noureddine
-#### I am currently studying "Software Development" at IT University of Copenhagen
+### Hi there 👋, 
+#### I am Youssef Noureddine and currently studying "Software Development" at IT University of Copenhagen
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
