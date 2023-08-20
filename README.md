@@ -1,5 +1,13 @@
-### Hi there 👋, 
-#### I am Youssef Noureddine and currently studying "Software Development" at IT University of Copenhagen
+# Hello, I'm Youssef Noureddine 👋
+
+🎓 Software Development Student | 💻 Coding Enthusiast | 🌐 Tech Explorer
+
+Welcome to my GitHub repository! I'm passionate about coding and exploring innovative technologies. Currently pursuing a BSc in Software Development, I've been immersed in the world of programming since a young age. This journey has equipped me with a strong foundation in various programming languages and technologies.
+
+## 🔭 What I'm Working On
+
+I'm constantly working on personal projects to enhance my skills and contribute to the tech community. My projects span from a Meme-generator bot using the Discord API Discord.py to 3D co-op adventure game made using Unity 3D and Blender. Feel free to explore my repositories to see what I've been up to!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
