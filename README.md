@@ -6,7 +6,7 @@ Welcome to my GitHub repository! I'm passionate about coding and exploring innov
 
 ## 🔭 What I'm Working On
 
-I'm constantly working on personal projects to enhance my skills and contribute to the tech community. My projects span from a Meme-generator bot using the Discord API Discord.py to 3D co-op adventure game made using Unity 3D and Blender. Feel free to explore my repositories to see what I've been up to!
+I'm currently focused on my school courses and projects, where I'm learning software design and architecture. As part of this, I'm developing a web application using C# .NET, SQLite, and Razor, with deployment on Azure. I'm also studying the foundations of database systems, using PostgreSQL and other technologies, and exploring the basics of distributed systems with Go.
 
 
 <h3 align="left">Connect with me:</h3>
