@@ -6,7 +6,23 @@ Welcome to my GitHub repository! I'm passionate about coding and exploring innov
 
 ## 🔭 What I'm Working On
 
-I'm currently focused on my school courses and projects, where I'm learning software design and architecture. As part of this, I'm developing a web application using C# .NET, SQLite, and Razor, with deployment on Azure. I'm also studying the foundations of database systems, using PostgreSQL and other technologies, and exploring the basics of distributed systems with Go.
+## 🔭 What I'm Working On
+
+I am currently starting my **6th and final semester** of my BSc in Software Development. My main focus right now is my **bachelor project** and **Game AI courses**, where I work with applied AI concepts and game-related systems.
+
+As part of my studies, I have worked with and explored:
+
+- **Analysis, Design and Implementation of Software Systems**  
+  (.NET, Azure, SQL, system architecture, design patterns)
+
+- **Algorithms and Data Structures**  
+  (problem-solving, efficiency, core algorithmic concepts)
+
+- **Operating Systems and C**  
+  (computer fundamentals, memory management, processes, low-level programming, **assembly language**)
+
+- **Introduction to IT Security**  
+  (fundamental security concepts, threats, and secure system thinking)
 
 <h3 align="left">Languages: </h3>
 <p align="left"> <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </p>
