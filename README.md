@@ -6,8 +6,6 @@ Welcome to my GitHub repository! I'm passionate about coding and exploring innov
 
 ## 🔭 What I'm Working On
 
-## 🔭 What I'm Working On
-
 I am currently starting my **6th and final semester** of my BSc in Software Development. My main focus right now is my **bachelor project** and **Game AI courses**, where I work with applied AI concepts and game-related systems.
 
 As part of my studies, I have worked with and explored:
